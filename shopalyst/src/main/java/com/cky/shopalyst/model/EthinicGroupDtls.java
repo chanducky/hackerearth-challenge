@@ -2,6 +2,10 @@ package com.cky.shopalyst.model;
 
 import org.codehaus.jackson.annotate.JsonAutoDetect;
 
+/**
+ * @author Chandra
+ *
+ */
 @JsonAutoDetect
 public class EthinicGroupDtls {
 
